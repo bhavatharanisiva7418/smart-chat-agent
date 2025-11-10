@@ -18,7 +18,7 @@ Enhance chatbot security by enabling email-based two-factor authentication (2FA)
 
 Test the chatbot with sample queries and document uploads to evaluate response accuracy, speed, and user management.
 # PROGRAM:
-```
+```python
 from phi.agent import Agent
 from phi.model.groq import Groq
 from dotenv import load_dotenv
